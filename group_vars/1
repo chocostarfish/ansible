@@ -1,9 +1,0 @@
----
-
-yumrepo_fqdn: deployserver-george
-yumrepo_path: /opt/yumrepo
-
-cci_username: chocostarfish 
-cci_token: 97d89b69c02bf6c02d8ba7ab60e3e160be486a7f
-cci_project: pingtest
-cci_branch: master
